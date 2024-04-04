@@ -1,5 +1,7 @@
 **Java Programming Tasks**
+
 This repository contains a set of Java programming tasks designed to practice basic Java syntax, control structures, and use of the Scanner class for input processing. Each task is designed to solve a specific problem, ranging from counting characters in a string to checking for palindromes and validating mathematical expressions.
+
 
 **Tasks Overview**
 
@@ -12,6 +14,7 @@ Task 3: Checks if a given string is a palindrome.
 Task 4: Sums up all digits found in a given string.
 
 Task 5: Checks if the parentheses in a given mathematical expression are balanced.
+
 
 
 **Task Details**
